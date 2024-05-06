@@ -1,4 +1,4 @@
-# Tucil1_13522148 - Word Ladder Solver using UCS, Greedy Best First Search, and A* Algorithm
+# Tucil3_13522148 - Word Ladder Solver using UCS, Greedy Best First Search, and A* Algorithm
 This repository is an archive of files for Tugas Kecil 3 IF2211 Strategi Algoritma.
 
 ## Table of Contents
