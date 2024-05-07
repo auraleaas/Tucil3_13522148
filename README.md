@@ -29,6 +29,8 @@ The Word Ladder Solver is a tool designed to solve the classic word puzzle known
     git clone https://github.com/auraleaas/Tucil1_13522148
     cd Tucil1_13522148
     cd src
+    javac Main.java Node.java Pair.java
+    java Main
     
 ## Dependencies
 - Java
